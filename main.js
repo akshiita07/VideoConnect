@@ -4,13 +4,7 @@ import { getFirestore, collection, doc, setDoc, getDoc, updateDoc, onSnapshot, a
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyBQnxjuQ6JVj2HQ3B3i1Vxua01zJ-sy-Is",
-    authDomain: "videochat-akshita.firebaseapp.com",
-    projectId: "videochat-akshita",
-    storageBucket: "videochat-akshita.appspot.com",
-    messagingSenderId: "345381603726",
-    appId: "1:345381603726:web:eab542a8c9d130454afcdf",
-    measurementId: "G-3V2NRCQMZ6"
+    // your keys
 };
 
 // Initialize Firebase
